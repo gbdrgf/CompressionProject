@@ -1,0 +1,17 @@
+{
+  "name": "compression-project",
+  "version": "1.0.0",
+  "description": "Serialization and deserialization of numbers with compression",
+  "main": "src/serializer.js",
+  "scripts": {
+    "start": "node src/tests.js",
+    "test": "node src/tests.js"
+  },
+  "keywords": [
+    "serialization",
+    "deserialization",
+    "compression"
+  ],
+  "author": "Galina Fomina",
+  "license": "MIT"
+}
