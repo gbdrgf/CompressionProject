@@ -10,5 +10,5 @@ This project implements serialization and deserialization for arrays of integers
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/gbdrgf/CompressionProject.git
    cd compression-project
